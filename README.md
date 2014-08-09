@@ -1,6 +1,8 @@
 dissent
 =======
 
+**NOTICE: This repo has moved to [github.com/aaron-lebo/dissent](https://github.com/aaron-lebo/dissent).**
+
 Implementation of a decentralized, transferable, and open software license system using the Bitcoin protocol
 
 ### What is this?
